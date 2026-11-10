@@ -4,7 +4,7 @@ $(if $(filter Windows_NT,$(OS)),$(if $(shell where printf 2>nul),,$(error coreut
 export PATH := $(HOME)/.local/bin:$(HOME)/.dotnet:$(PATH)
 
 LATEX_CMD = latexmk -pdf -synctex=1 -interaction=nonstopmode -cd
-URL = https://alanlivio.github.io/paper-webm25-tv-workflow-ai/
+URL = https://alanlivio.github.io/paper-webmedia25-tv-workflow-ai/
 
 .PHONY: help deps latex site serve clean slides qrcode format
 

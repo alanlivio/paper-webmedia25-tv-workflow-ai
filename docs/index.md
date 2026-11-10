@@ -24,7 +24,7 @@ description: "Artificial Intelligence Applications in TV Industry Workflow: Pre-
 <a class="academic-link-btn" href="slides/">
 :lucide-presentation: <span>Slides</span>
 </a>
-<a class="academic-link-btn" href="https://github.com/alanlivio/paper-webm25-tv-workflow-ai">
+<a class="academic-link-btn" href="https://github.com/alanlivio/paper-webmedia25-tv-workflow-ai">
 :simple-github: <span>Paper Repo</span>
 </a>
 </div>

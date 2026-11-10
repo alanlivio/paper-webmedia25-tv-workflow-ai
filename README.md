@@ -1,4 +1,4 @@
-# paper-webm25-tv-workflow-ai
+# paper-webmedia25-tv-workflow-ai
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-10.5753%2Fwebmedia__estendido.2025.16796-blue.svg)](https://doi.org/10.5753/webmedia_estendido.2025.16796)

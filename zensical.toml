@@ -2,7 +2,7 @@
 site_name = "Artificial Intelligence Applications in TV Industry Workflow"
 site_description = "Artificial Intelligence Applications in TV Industry Workflow: Pre-Production, Production, Post-Production, and Distribution"
 site_author = "Alan L. V. Guedes"
-site_url = "https://alanlivio.github.io/paper-webm25-tv-workflow-ai/"
+site_url = "https://alanlivio.github.io/paper-webmedia25-tv-workflow-ai/"
 copyright = "Copyright &copy; 2025 The authors"
 docs_dir = "docs"
 site_dir = "site"
