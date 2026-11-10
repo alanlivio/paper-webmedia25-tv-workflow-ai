@@ -13,7 +13,7 @@ description: "Artificial Intelligence Applications in TV Industry Workflow: Pre-
 <div class="author-inst">University of Reading</div>
 </div>
 </div>
-<div class="academic-conference">WTVDI 2025</div>
+<div class="academic-conference">WebMedia 2025 Workshop on the Future of Interactive Digital TV</div>
 <div class="academic-links" markdown="span">
 <a class="academic-link-btn" href="https://doi.org/10.5753/webmedia_estendido.2025.16796">
 :simple-doi: <span>DOI</span>
