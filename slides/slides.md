@@ -1,22 +1,15 @@
 ---
 marp: true
 theme: default
-class:
 paginate: true
 style: |
+  @import url('https://cdn.jsdelivr.net/gh/alanlivio/marp-utils@v0.1/marp-utils.css');
   @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
-  img[alt~="center"] {
-    display: block;
-    margin: 0 auto;
-  }
-  section.invert {
-    text-align: center;
-  }
   footer {
     text-align: right;
     right: 100px;
   }
-  section strong.green { color: #007A3D; } /* formal academic green */
+  section strong.green { color: #007A3D; }
 ---
 
 <!-- _class: invert -->
@@ -114,7 +107,8 @@ It challenging to **fully understand current practices** and **identify research
 
 ---
 
-<!-- _footer: Owens, J. and Millerson, G., 2012. Video production handbook. Routledge. 2023.  -->
+<!-- _footer: Owens, J. and Millerson, G., 2012. Video production handbook. Routledge. 2023. -->
+<!-- _class: cols-3-1 vcenter -->
 
 # Research Question
 
@@ -126,24 +120,11 @@ It challenging to **fully understand current practices** and **identify research
 
 To address it, we:
 
-<div style="display: grid; grid-template-columns: 2fr 0.5fr; repeat(2, minmax(0, 1fr));">
+- **1.** Choose a taxonomy: **Owens' TV workflow phases** (*pre-production, production, post-production,* and *distribution.*)
 
-<div>
+  **2.** Reviewed **academic literature** and **industry reports** (especially coverage from the *International Broadcasting Convention (IBC)*).
 
-1. Choose a taxonomy: **Owens' TV workflow phases** (*pre-production, production, post-production,* and *distribution.*)  
-
-2. Reviewed **academic literature** and  **industry reports**
-    - Especially coverage from the *International Broadcasting Convention (IBC)*.  
-
-</div>
-
-<div>
-
-![w:200](https://m.media-amazon.com/images/I/91y8-okGkFL._SY385_.jpg)
-
-</div>
-
-</div>
+- ![w:200](https://m.media-amazon.com/images/I/91y8-okGkFL._SY385_.jpg)
 
 ---
 
